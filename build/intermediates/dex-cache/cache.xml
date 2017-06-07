@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Pavel\MyVorkProject\AndroidBuildingMusicPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18751f4f940e64ad160d8ce745f0aba972ea7170">
+        <dex dex="D:\Pavel\MyVorkProject\AndroidBuildingMusicPlayer\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_11bbb62bb1d478dfbf41ed137ef6e62d18528084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Pavel\MyVorkProject\AndroidBuildingMusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="11eaa649d322e2afec6db10fbac58bdfbe2831eb">
+        <dex dex="D:\Pavel\MyVorkProject\AndroidBuildingMusicPlayer\app\build\intermediates\pre-dexed\debug\instant-run_5f75c3f7edfaba8d3027e89415dfe6ce09dad420.jar" />
+    </item>
+
+</items>
